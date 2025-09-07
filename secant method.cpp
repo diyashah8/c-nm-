@@ -8,7 +8,6 @@ float f(float x) {
     return x * x + log(x) - 3;
 }
 
-// Correct Secant formula
 float root(float x1, float x2) {
     float x3;
     x3 = (x1 * f(x2) - x2 * f(x1)) / (f(x2) - f(x1));
