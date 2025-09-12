@@ -1,6 +1,3 @@
-// Practical No: 4
-// Write a program to find the root of f(x) = x^2 + ln(x) - 3 using secant method
-
 #include <stdio.h>
 #include <math.h>
 
