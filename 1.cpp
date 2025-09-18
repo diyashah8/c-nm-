@@ -1,4 +1,3 @@
 #include<stdio.h>
 #include<math.h>
-floatf(float x)
-;
+floatf(float x);
