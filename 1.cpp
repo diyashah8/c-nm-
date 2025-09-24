@@ -3,7 +3,7 @@
 float f (float x);{
 return(x*x*x-x-2);
 }
-
 {
     float midpoint(float x1, float x2)
 }
+int main()
