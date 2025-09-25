@@ -7,5 +7,5 @@ return(x*x*x-x-2);
     float midpoint(float x1, float x2)
 }
 int main(){
-    float 
+    float x1 
 }
