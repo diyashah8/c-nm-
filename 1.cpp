@@ -10,4 +10,4 @@ int main(){
     float x1, x2, x3, f1, f2, f3, e;
 }
 printf(Enter initial guesses);
-scanf("%f,%f", &x1)
+scanf("%f,%f", &x1, )
