@@ -12,3 +12,4 @@ int main(){
 printf(Enter initial guesses);
 scanf("%f,%f", &x1,&x2 );
 printf("Enter allowable error:");
+scanf("")
