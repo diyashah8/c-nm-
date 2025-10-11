@@ -14,3 +14,4 @@ scanf("%f,%f", &x1,&x2 );
 printf("Enter allowable error:");
 scanf(" %f",&e);
 f1=f();
+f2=f();
