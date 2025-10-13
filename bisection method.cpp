@@ -16,7 +16,7 @@ int main() {
     scanf("%f %f", &x1, &x2);
 
     printf("Enter allowable error: ");
-    scanf("%f", &e);
+    scanf("%f",&e);
 
     f1 = f(x1);
     f2 = f(x2);
